@@ -15,7 +15,4 @@ API.add_resource(Blog, '/blogs/<int:blog_id>')
 API.add_resource(update_blog, '/blogs/<int:blog_id>/description')
 API.add_resource(delete_blog, '/blogs/<int:blog_id>')
 API.add_resource(save_comment, '/blogs/<int:blog_id>/comment')
-
-#API.add_resource(save_comment, '/blogs/<int:blog_id>/comment/<int:comment_id>')
 API.add_resource(commets_view, '/comments/<int:blog_id>')
-#API.add_resource(preferred_user, '/comments/<int:blog_id>/<int:comment_id>')
