@@ -1,5 +1,4 @@
- [![Build Status](https://travis-ci.org/chrisribia/FlaskBlog.svg?branch=master)](https://travis-ci.org/chrisribia/FlaskBlog)
-# StackOverFlowLite-API [![Build Status](https://travis-ci.org/antonnifo/StackOverflow-lite.svg?branch=develop)](https://travis-ci.org/antonnifo/StackOverflow-lite) [![Maintainability](https://api.codeclimate.com/v1/badges/5c190be007229b41d114/maintainability)](https://codeclimate.com/github/antonnifo/StackOverflow-lite/maintainability) [![Coverage Status](https://coveralls.io/repos/github/antonnifo/StackOverflow-lite/badge.svg?branch=develop)](https://coveralls.io/github/antonnifo/StackOverflow-lite?branch=develop)
+# Blog--API [![Build Status](  [![Build Status](https://travis-ci.org/chrisribia/FlaskBlog.svg?branch=master)](https://travis-ci.org/chrisribia/FlaskBlog)) [![Maintainability](https://api.codeclimate.com/v1/badges/5c190be007229b41d114/maintainability)](https://codeclimate.com/github/antonnifo/StackOverflow-lite/maintainability) [![Coverage Status](https://coveralls.io/repos/github/antonnifo/StackOverflow-lite/badge.svg?branch=develop)](https://coveralls.io/github/antonnifo/StackOverflow-lite?branch=develop)
 
 ### Tech/framework used  
 python 3.6.7 and [Flask](http://flask.pocoo.org/docs/dev/)   
