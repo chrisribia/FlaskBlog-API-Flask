@@ -1,5 +1,4 @@
-# Blog--API [![Build Status][![Build Status](https://travis-ci.org/chrisribia/FlaskBlog.svg?branch=master]
-
+ 
 ### Tech/framework used  
 python 3.6.7 and [Flask](http://flask.pocoo.org/docs/dev/)   
 ### PROJECT OVERVIEW  
