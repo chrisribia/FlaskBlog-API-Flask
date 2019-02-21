@@ -1,4 +1,4 @@
- [![Build Status](https://travis-ci.org/chrisribia/FlaskBlog.svg?branch=master)](https://travis-ci.org/chrisribia/FlaskBlog)
+ [![Build Status](https://travis-ci.org/chrisribia/FlaskBlog.svg?branch=master)](https://travis-ci.org/chrisribia/FlaskBlog) [![Coverage Status](https://coveralls.io/repos/github/chrisribia/FlaskBlog/badge.svg)](https://coveralls.io/github/chrisribia/FlaskBlog)
 ### Tech/framework used  
 python 3.6.7 and [Flask](http://flask.pocoo.org/docs/dev/)   
 ### PROJECT OVERVIEW  
