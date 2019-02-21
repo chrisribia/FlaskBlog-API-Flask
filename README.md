@@ -1,4 +1,4 @@
- 
+ [![Build Status](https://travis-ci.org/chrisribia/FlaskBlog.svg?branch=master)](https://travis-ci.org/chrisribia/FlaskBlog)
 ### Tech/framework used  
 python 3.6.7 and [Flask](http://flask.pocoo.org/docs/dev/)   
 ### PROJECT OVERVIEW  
