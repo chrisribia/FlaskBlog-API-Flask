@@ -5,7 +5,7 @@ python 3.6.7 and [Flask](http://flask.pocoo.org/docs/dev/)
 A Q and A Platform  
 ## Installation and Deployment. 
 ### Getting Started 
-> git clone https://github.com/antonnifo/Flaskblog-lite.git 
+ 
 #### Create a virtual environment and activate it 
 > python3 - m venv env  
 > source .env  
