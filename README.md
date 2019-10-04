@@ -2,7 +2,7 @@
 ### Tech/framework used  
 python 3.6.7 and [Flask](http://flask.pocoo.org/docs/dev/)   
 ### PROJECT OVERVIEW  
-A Q and A Platform  
+ 
 ## Installation and Deployment. 
 ### Getting Started 
  
